@@ -13,3 +13,6 @@
   <li>npm run build</li>
   <li>Каталог билда, лежит в корне проекта (./build/)</li>
  </ul>
+
+ # Демо проекта
+ https://code-rnd.github.io/fortune-game-app/
