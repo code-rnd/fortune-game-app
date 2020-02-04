@@ -1,0 +1,31 @@
+.informMenu {
+  height: 40px;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  input[type="button"] {
+    cursor: pointer;
+  }
+
+  .informMenu-userInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .informMenu-userInfo-avatar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      height: 40px;
+      width: 40px;
+
+      border-radius: 25px;
+
+      background-color: #ffeb3b;
+    }
+  }
+}

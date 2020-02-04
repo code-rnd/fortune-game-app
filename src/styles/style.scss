@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: #1976D2;
+
+  .root {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .margin-top20px {
+      margin-top: 20px;
+    }
+
+    .margin-left5px {
+      margin-left: 5px;
+    }
+  }
+}
